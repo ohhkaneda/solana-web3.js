@@ -34,7 +34,6 @@ $ yarn add @solana/web3.js
 ```
 
 ### npm
-
 ```
 $ npm install --save @solana/web3.js
 ```
